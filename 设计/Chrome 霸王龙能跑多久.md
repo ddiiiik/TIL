@@ -1,0 +1,1 @@
+Chrome 浏览器离线时就会出现霸王龙过关小游戏。[恐龙能跑多久？](https://www.irishnews.com/magazine/technology/2018/09/07/news/the-google-chrome-dinosaur-can-run-for-17-million-years-1427972/)170 万年，也正好是霸王龙在地球上存活的时长。Google Play 离线时也有一个类似小游戏，不过霸王龙变成了热气球，至于它能飞多久就不得而知了。

@@ -1,0 +1,1 @@
+如果你订阅了一些 newsletter，会发现创作者自称为策展人、主理人等，其实都是 curator 一词的译法。而 curator 之所以能够策展，[是因为](https://tuanmon.com/how-the-curator-economy-shapes-todays-products/)他们大多数都是早期接受者。

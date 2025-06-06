@@ -1,0 +1,208 @@
+{
+  "main": {
+    "id": "f01d3f2d347c52ff",
+    "type": "split",
+    "children": [
+      {
+        "id": "bead7cc0d49c41b7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "51cc3b69c0082512",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "语言/手语也有方言.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "手语也有方言"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "41f78c31d868d83b",
+    "type": "split",
+    "children": [
+      {
+        "id": "290ef7c4f486c9f5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "219e473180faf548",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "c7e1a55f16d31ac2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "2a4d2ffc9e55a09f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3011e1df5f896f83",
+    "type": "split",
+    "children": [
+      {
+        "id": "8a466bb284b23fe7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0ff0f8e3ddee7b8c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "金句/解决问题的途径.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 解决问题的途径"
+            }
+          },
+          {
+            "id": "20375bbeb9c55371",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "金句/解决问题的途径.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 解决问题的途径"
+            }
+          },
+          {
+            "id": "1e120d79e769da9d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "22414cca4c718178",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "金句/解决问题的途径.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 解决问题的途径"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "command-palette:Open command palette": false,
+      "random-note:Open random note": false,
+      "workspaces:Manage workspace layouts": false
+    }
+  },
+  "active": "51cc3b69c0082512",
+  "lastOpenFiles": [
+    "认知/鸭子测试.md",
+    "管理/护眼法则.md",
+    "管理/先到 75%.md",
+    "金句/渴望.md",
+    "金句/解决问题的途径.md",
+    "语言/Mark I.md",
+    "设计/舷窗.md",
+    "金句/安静和吵闹.md",
+    "历史/人口沙漏.md",
+    "设计/Schlemmerblock.md",
+    "SwiftUI",
+    "Swift",
+    "未命名文件夹",
+    "自然/竹子生长原则.md",
+    "自然",
+    "管理/Johnny.Decimal.md",
+    "设计/Instagram 为什么默认方形照片.md",
+    "历史/Dvorak 键盘.md",
+    "设计/Drudge Report.md",
+    "管理/DRI 的 8 个特性.md",
+    "语言/Curator.md",
+    "历史/DOS.md",
+    "竹子生长原则.md",
+    "设计/Chrome 霸王龙能跑多久.md",
+    "语言/坠茵落溷.md",
+    "设计/重量.md",
+    "设计/终极规则.md",
+    "认知/纸质书的空间感.md",
+    "金句/只有最好才是足够的.md",
+    "认知/运气剃刀.md",
+    "语言",
+    "咬文嚼字",
+    "用所选项目新建的文件夹",
+    "管理",
+    "历史",
+    "金句"
+  ]
+}
