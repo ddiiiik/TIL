@@ -8,5 +8,14 @@
       "key": "Enter"
     }
   ],
-  "editor:open-link-in-new-split": []
+  "editor:open-link-in-new-split": [],
+  "editor:insert-codeblock": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "I"
+    }
+  ]
 }

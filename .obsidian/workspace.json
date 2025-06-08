@@ -11,13 +11,46 @@
             "id": "6c4ccd4bf1e9e782",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "语言/Languishing.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Languishing"
+            }
+          },
+          {
+            "id": "18efb3c5c0b3a87e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "陶俑.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "陶俑"
+            }
+          },
+          {
+            "id": "2fe90478f90349cf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "历史/陶俑.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "陶俑"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -166,6 +199,9 @@
   },
   "active": "219e473180faf548",
   "lastOpenFiles": [
+    "Swift/下划线.md",
+    "历史/陶俑.md",
+    "语言/Languishing.md",
     "窍门/如何用 iPhone 拍月亮.md",
     "管理/影响力.md",
     "认知/This is water.md",
@@ -191,13 +227,10 @@
     "语言/一棵稗子提心吊胆的春天.md",
     "设计/窗.md",
     "管理/每天一份小期待.md",
-    "历史/印记.md",
-    "历史/无名.md",
-    "历史/IMG_XXXX.md",
     "视角",
     "编程",
     "摄影",
-    "SwiftUI",
+    "Swift",
     "Swift",
     "未命名文件夹",
     "自然",
