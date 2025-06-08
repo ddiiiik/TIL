@@ -1,0 +1,169 @@
+{
+  "main": {
+    "id": "4d54aec31377a78b",
+    "type": "split",
+    "children": [
+      {
+        "id": "d317df6fa2a55dd9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "da141b651377f5e2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "认知/社恐.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "社恐"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1a5a18dbd8a895fd",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "cbb72f908cedeb9e",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "1dcd490b41bdb5ae",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "7cc427bdccd9768f",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "51efdf10a93f9e25",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "554c0b4acb642bce",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "a3969bdb85a953e8",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "认知/社恐.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "3485e8b944301e8f",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "认知/社恐.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "e8f274b01d194516",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "认知/社恐.md",
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      },
+      {
+        "id": "a12b0bc12e460c62",
+        "type": "leaf",
+        "state": {
+          "type": "git-view",
+          "state": {},
+          "icon": "git-pull-request",
+          "title": "Source Control"
+        }
+      }
+    ],
+    "currentTab": 3
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "command-palette:Open command palette": false,
+      "random-note:Open random note": false,
+      "workspaces:Manage workspace layouts": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "da141b651377f5e2",
+  "lastOpenFiles": [
+    "认知/社恐.md"
+  ]
+}
