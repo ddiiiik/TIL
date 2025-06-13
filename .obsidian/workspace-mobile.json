@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "设计/!Boring 信条.md",
+                "file": "Swift/字号.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "!Boring 信条"
+              "title": "字号"
             }
           }
         ]
@@ -37,7 +37,7 @@
           "type": "file-explorer",
           "state": {
             "sortOrder": "alphabetical",
-            "autoReveal": true
+            "autoReveal": false
           },
           "icon": "lucide-folder-closed",
           "title": "Files"
@@ -164,8 +164,14 @@
   },
   "active": "da141b651377f5e2",
   "lastOpenFiles": [
-    "认知/勇气.md",
+    "编程/一次一题.md",
+    "Swift/字号.md",
+    "Swift/Picker 文字颜色设定.md",
+    "AI",
     "设计/!Boring 信条.md",
+    "/Swift/Picker 文字颜色设定.md",
+    "/Swift",
+    "认知/勇气.md",
     "认知/社恐.md",
     "Swift/下划线.md"
   ]
