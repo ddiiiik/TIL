@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "自然/海豚照.md",
+                "file": "自然/美是一种博弈.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "海豚照"
+              "title": "美是一种博弈"
             }
           }
         ]
@@ -164,28 +164,35 @@
   },
   "active": "da141b651377f5e2",
   "lastOpenFiles": [
-    "原来.md",
     "自然/海豚照.md",
+    "自然/美是一种博弈.md",
+    "窍门/拆分邮箱写法.md",
+    "/窍门/拆分邮箱写法.md",
+    "/窍门/快选.md",
+    "窍门/快选.md",
+    "/窍门",
+    "/历史/F 和 J 键的横杠.md",
+    "历史/F 和 J 键的横杠.md",
+    "/历史",
+    "/Swift/增加可点击区域.md",
+    "Swift/增加可点击区域.md",
+    "/Swift",
+    "原来.md",
     "Swift/字号.md",
     "Swift/节假日更新.md",
     "Swift/浮点数.md",
     "Swift/图标.md",
     "/历史/安全帽.md",
     "历史/安全帽.md",
-    "/历史",
     "/Swift/节假日更新.md",
     "/Swift/浮点数.md",
     "/Swift/图标.md",
     "/Swift/nil.md",
     "Swift/nil.md",
-    "/Swift",
     "编程/一次一题.md",
     "Swift/Picker 文字颜色设定.md",
     "AI",
     "设计/!Boring 信条.md",
-    "/Swift/Picker 文字颜色设定.md",
-    "认知/勇气.md",
-    "认知/社恐.md",
-    "Swift/下划线.md"
+    "/Swift/Picker 文字颜色设定.md"
   ]
 }
