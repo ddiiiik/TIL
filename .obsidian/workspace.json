@@ -4,53 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "9e29e1510b210911",
+        "id": "bdeb57c234c2da06",
         "type": "tabs",
         "children": [
           {
-            "id": "a9b731963f6858bc",
+            "id": "21a4f151df33151a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Swift/增加可点击区域.md",
+                "file": "学习/Project 50.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "增加可点击区域"
+              "title": "Project 50"
             }
           },
           {
-            "id": "33cdbd3480443be1",
+            "id": "9e744c60fb9cf721",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "窍门/拆分邮箱写法.md",
+                "file": "历史/宗教的作用.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "拆分邮箱写法"
-            }
-          },
-          {
-            "id": "f7e903b750fd31e5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "历史/F 和 J 键的横杠.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "F 和 J 键的横杠"
+              "title": "宗教的作用"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -197,34 +183,34 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "219e473180faf548",
+  "active": "9e744c60fb9cf721",
   "lastOpenFiles": [
-    "窍门/拆分邮箱写法.md",
-    "历史/F 和 J 键的横杠.md",
+    "学习/Project 50.md",
+    "历史/宗教的作用.md",
+    "自然/美是一种博弈.md",
     "Swift/增加可点击区域.md",
-    "Swift/节假日更新.md",
-    "Swift/图标.md",
+    "窍门/拆分邮箱写法.md",
     "自然/海豚照.md",
-    "语言/Languishing.md",
+    "认知/留痕.md",
     "认知/社恐.md",
-    "窍门/快选.md",
-    "Swift/字号.md",
-    "Swift/浮点数.md",
-    "Swift/nil.md",
-    "Swift/Picker 文字颜色设定.md",
-    "历史/安全帽.md",
-    "Swift/下划线.md",
-    "编程/一次一题.md",
-    "设计/!Boring 信条.md",
-    "历史/陶俑.md",
-    "窍门/如何用 iPhone 拍月亮.md",
-    "管理/影响力.md",
-    "认知/This is water.md",
-    "窍门/护眼法则.md",
-    "管理/循序渐进.md",
     "窍门/先到 75%.md",
+    "窍门/如何用 iPhone 拍月亮.md",
+    "窍门/护眼法则.md",
     "窍门/防晕车.md",
-    "认知/控制现在.md",
+    "历史/日本百年企业.md",
+    "历史/日本百年老店.md",
+    "历史/4 MB.md",
+    "历史/奔跑的马.md",
+    "历史/城市的包容性.md",
+    "历史/宠物如何影响拍照.md",
+    "历史/航空.md",
+    "历史/猫与囚犯.md",
+    "历史/偶遇爱因斯坦那一夜.md",
+    "历史/起飞.md",
+    "历史/印记.md",
+    "历史/贫贱夫妻百事哀.md",
+    "历史/无名.md",
+    "历史/陶俑.md",
     "窍门",
     "学习",
     "视角",
