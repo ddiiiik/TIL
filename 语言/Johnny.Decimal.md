@@ -1,1 +1,0 @@
- [Johnny.Decimal](https://johnnydecimal.com/10-19-concepts/11-core/11.01-introduction/)，一种用于组织和管理的系统性方法，更高效打理文件和任务。

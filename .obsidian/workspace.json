@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "9bce68c3c7ad0b7b",
+        "id": "96858d63e99cff82",
         "type": "tabs",
         "children": [
           {
-            "id": "e3ceadd555607cc8",
+            "id": "fb59aeba406fdac6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "F 和 J 键的横杠.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "F 和 J 键的横杠"
             }
           }
         ]
@@ -36,8 +40,10 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byModifiedTime",
-                "autoReveal": true
+                "sortOrder": "byCreatedTimeReverse",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -90,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "管理/影响力.md",
+                "file": "F 和 J 键的横杠.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +106,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 影响力"
+              "title": "Backlinks"
             }
           },
           {
@@ -109,12 +115,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "管理/影响力.md",
+                "file": "F 和 J 键的横杠.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 影响力"
+              "title": "Outgoing links"
             }
           },
           {
@@ -138,21 +144,31 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "管理/影响力.md",
-                "followCursor": false,
+                "file": "F 和 J 键的横杠.md",
+                "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 影响力"
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "824b835a8b020f93",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {},
+              "icon": "message-square",
+              "title": "Copilot"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 414.453125,
     "collapsed": true
   },
   "left-ribbon": {
@@ -161,46 +177,48 @@
       "command-palette:Open command palette": false,
       "random-note:Open random note": false,
       "workspaces:Manage workspace layouts": false,
-      "obsidian-git:Open Git source control": false
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false,
+      "copilot:Open Copilot Chat": false
     }
   },
-  "active": "e3ceadd555607cc8",
+  "active": "fb59aeba406fdac6",
   "lastOpenFiles": [
-    "窍门/幸福胶囊.md",
-    "认知/机会.md",
-    "学习/Project 50.md",
-    "历史/宗教的作用.md",
-    "自然/美是一种博弈.md",
-    "Swift/增加可点击区域.md",
-    "窍门/拆分邮箱写法.md",
-    "自然/海豚照.md",
-    "认知/留痕.md",
-    "认知/社恐.md",
-    "窍门/先到 75%.md",
-    "窍门/如何用 iPhone 拍月亮.md",
-    "窍门/护眼法则.md",
-    "窍门/防晕车.md",
-    "历史/日本百年企业.md",
-    "历史/日本百年老店.md",
-    "历史/4 MB.md",
-    "历史/奔跑的马.md",
-    "历史/城市的包容性.md",
-    "历史/宠物如何影响拍照.md",
-    "历史/航空.md",
-    "历史/猫与囚犯.md",
-    "历史/偶遇爱因斯坦那一夜.md",
-    "历史/起飞.md",
-    "历史/印记.md",
-    "历史/贫贱夫妻百事哀.md",
+    "9 分钟.md",
+    "7 个问领导的问题.md",
+    "4 MB.md",
+    "⭐️ 标签体系说明.md",
+    "鼓捣.md",
+    "鸭子测试.md",
+    "重量.md",
+    "青年的勇敢.md",
+    "飞轮效应.md",
+    "音乐风格偏好.md",
+    "防晕车.md",
+    "费曼剃刀.md",
+    "运气剃刀.md",
+    "逆风起降.md",
+    "一半.md",
+    "nil.md",
+    "IMG_XXXX.md",
+    "Dvorak 键盘.md",
+    "Drudge Report.md",
+    "DRI 的 8 个特性.md",
+    "DOS.md",
+    "Curator.md",
+    "Chrome 霸王龙能跑多久.md",
+    "37% 法则.md",
+    "!Boring 信条.md",
+    "F 和 J 键的横杠.md",
+    "copilot/copilot-conversations",
+    "copilot",
+    "未命名.base",
+    "copilot/copilot-custom-prompts",
+    "Clippings",
     "窍门",
     "学习",
     "视角",
     "编程",
-    "摄影",
-    "Swift",
-    "Swift",
-    "未命名文件夹",
-    "自然",
-    "语言"
+    "摄影"
   ]
 }
